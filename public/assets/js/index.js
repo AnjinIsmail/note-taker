@@ -61,7 +61,12 @@ const renderActiveNote = () => {
   } else {
     noteTitle.value = '';
     noteText.value = '';
+
+    // additional code by jason - this is for people having trouble creating new note button and cant make a new note. 
+    // noteTitle.removeAttribute('readonly');
+    // noteText.removeAttribute('readonly');
   }
+
 };
 
 const handleNoteSave = () => {
