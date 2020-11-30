@@ -13,7 +13,7 @@ The following statisifes the user:
     5 - Once user clicks on an existing note in the list in the left-hand column, a note apperas in the right-hand column
     6 - Once user cliks on the Write icon in the naviagation at the top of the page then they are presented with empty fields to enter a new note title and the note's text in the right-hand column.
 
-## Deployed Application:
+## Deployed Application: https://gentle-waters-17089.herokuapp.com/
 
 ## Screenshot
 <img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%201.png">
