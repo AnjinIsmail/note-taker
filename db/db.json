@@ -1,54 +1,24 @@
 {
   "notes": [
     {
-      "id": "0",
-      "title": "Going to doctor",
-      "description": "have an appointment at sometimes"
-    },
-    {
-      "id": "1",
-      "title": "Going to school",
-      "description": "have an appointment at sometime"
-    },
-    {
-      "id": "2",
-      "title": "Going to doctor",
-      "description": "have an appointment at sometimes"
-    },
-    {
-      "id": "3",
-      "title": "Going to doctor",
-      "description": "have an appointment at sometimes"
-    },
-    {
-      "id": "4",
-      "title": "Going to doctor",
-      "description": "have an appointment at sometimes"
-    },
-    {
-      "id": "5",
-      "title": "Going to doctor",
-      "description": "have an appointment at sometimes"
-    },
-    {
       "id": "6",
       "title": "Going to doctor",
       "description": "have an appointment at sometimes"
     },
     {
-      "title": "hklblk",
-      "text": "kblb",
+      "title": "Lawyer",
+      "description": "no doctor ",
       "id": "7"
     },
     {
-      "title": "bjlbjlbj",
-      "text": "hmhvmgighhu",
+      "title": "hi",
+      "description": "nkn",
       "id": "8"
     },
     {
-      "title": "hm",
-      "text": "hmhm",
-      "id": "9"
+      "title": "OH MAN",
+      "description": "bkwfwf",
+      "id": "3"
     }
   ]
 }
