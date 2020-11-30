@@ -16,6 +16,6 @@ The following statisifes the user:
 ## Deployed Application: https://gentle-waters-17089.herokuapp.com/
 
 ## Screenshot
-<img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%201.png">
+<img src ="/assets/img/Screen%20Shot%201.png">
 <img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%202.png">
 <img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%203.png">
