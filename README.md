@@ -16,3 +16,6 @@ The following statisifes the user:
 ## Deployed Application:
 
 ## Screenshot
+<img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%201.png">
+<img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%202.png">
+<img src ="https://github.com/AnjinIsmail/note-taker/blob/main/public/assets/img/Screen%20Shot%203.png">
